@@ -1,3 +1,4 @@
+/// Data 
 export const data=[
     {
     
@@ -112,6 +113,41 @@ export const data=[
         "data": 120,
         "lati":17.607789,
         "longi":	8.081666
+     },
+     {
+        "id": 17,
+        "region": "TM",
+        "data": 150,
+        "lati":	38.969719,
+        "longi":	59.556278
+     },
+     {
+        "id": 18,
+        "region": "TR",
+        "data": 120,
+        "lati":	38.963745	,
+        "longi":	35.243322
+     },
+     {
+        "id": 19,
+        "region": "GE",
+        "data": 120,
+        "lati":		42.315407	,
+        "longi":	43.356892
+     },
+     {
+        "id": 20,
+        "region": "ML",
+        "data": 180,
+        "lati":	17.570692	,
+        "longi":	-3.996166
+     },
+     {
+        "id": 21,
+        "region": "CN",
+        "data": 255,
+        "lati":	35.86166	,
+        "longi":	104.195397
      },
     
     
